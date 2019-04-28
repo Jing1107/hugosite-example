@@ -11,7 +11,7 @@ paginate        = 6
 
   cover       = "uploads/header.jpg"
   description = "Jing Dong's Awesome Example Site."
-  metaDescription = ""
+  metaDescription = "coder"
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
