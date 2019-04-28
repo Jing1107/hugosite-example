@@ -1,0 +1,60 @@
+baseurl         = "https://example.jing.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Example Site"
+  subtitle    = "My Awesome Site"
+
+  cover       = "uploads/header.jpg"
+  description = "Jing Dong's Awesome Example Site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "Jing11072"
+  fbName = "fakeghost"
+  githubName = "Jing1107"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "JD"
+  authorAvatar = "uploads/profile_picture.jpg"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://blog.jingdong.com"
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/Projects/"
+  weight = 100
+
+[[menu.main]]
+  name = "My Life"
+  url = "/categories/life/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
