@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "uploads/profile_picture.jpg"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://blog.jingdong.com"
-  authorDescription = "Describe yourself.."
+  authorDescription = "coder"
 
   pageNotFoundTitle = "404 - Page not found"
 
