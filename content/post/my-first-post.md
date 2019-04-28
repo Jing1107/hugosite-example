@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "My Awesome First Post"
 date: 2019-04-28T19:33:09+10:00
 draft: false
 image: "uploads/cool_photo.jpg"
